@@ -1,3 +1,3 @@
-# typescript-react
+# typescript-react-quiz
 
-In this repo I will place any work I do using Typescript with React. I have a good amount of experience with React and would like to improve my skills to use Typescript, which will be more widely used as time goes on.
+A repo for building a quiz app using React and Typescript, initially working from [this tutorial](https://www.youtube.com/watch?v=F2JCjVSZlG0&t=3881s) with an aim to add additional functionality as progress is made.
